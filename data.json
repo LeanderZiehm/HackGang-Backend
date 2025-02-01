@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "AI Hackathon",
+    "description": "Build AI-powered applications!",
+    "maxSize": 5,
+    "currentSize": 3,
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-10",
+    "languages": ["Python", "TensorFlow", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "Web3 Blockchain Challenge",
+    "description": "Create decentralized applications on Ethereum.",
+    "maxSize": 6,
+    "currentSize": 5,
+    "startDate": "2025-04-05",
+    "endDate": "2025-04-15",
+    "languages": ["Solidity", "JavaScript", "Rust"]
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Dev Sprint",
+    "description": "Develop cutting-edge mobile applications for iOS and Android.",
+    "maxSize": 8,
+    "currentSize": 4,
+    "startDate": "2025-02-20",
+    "endDate": "2025-02-28",
+    "languages": ["Swift", "Kotlin", "Flutter"]
+  },
+  {
+    "id": 4,
+    "title": "Data Science Bootcamp",
+    "description": "Tackle real-world data problems and build predictive models.",
+    "maxSize": 10,
+    "currentSize": 7,
+    "startDate": "2025-05-01",
+    "endDate": "2025-05-10",
+    "languages": ["Python", "R", "SQL"]
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity CTF",
+    "description": "Participate in a Capture the Flag event to improve your security skills.",
+    "maxSize": 4,
+    "currentSize": 2,
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-15",
+    "languages": ["Python", "Bash", "C"]
+  }
+]
